@@ -1,13 +1,15 @@
 /* custom.css */
 
 /* Target the h1 tag */
+
 h1 {
                                                                              /* Example styles */
     color: green;                                                          /* Text color */
     font-family: Arial, sans-serif;                                   /* Font family */
     font-size: 28px;                                                    /* Font size */
     text-align: center;                                                      /* Text alignment */
-    margin-top: 20px;                                                            /* Top margin */
+    margin-top: 20px; 
+    background: yellow;                                                           /* Top margin */
                                                                                  /* Add more styles as needed */
 }
 h2{
@@ -16,4 +18,6 @@ h2{
     font-size: 28px;
     text-align:center ;
     margin-top: 40px;
+    background: yellowgreen;
+
 }
