@@ -1,5 +1,19 @@
-.{
-    padding : 0;
-    margin : 0;
+/* custom.css */
 
+/* Target the h1 tag */
+h1 {
+                                                                             /* Example styles */
+    color: green;                                                          /* Text color */
+    font-family: Arial, sans-serif;                                   /* Font family */
+    font-size: 28px;                                                    /* Font size */
+    text-align: center;                                                      /* Text alignment */
+    margin-top: 20px;                                                            /* Top margin */
+                                                                                 /* Add more styles as needed */
+}
+h2{
+    font-family:Arial, sans-serif;
+    color: blue;
+    font-size: 28px;
+    text-align:center ;
+    margin-top: 40px;
 }
